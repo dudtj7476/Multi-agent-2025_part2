@@ -8,8 +8,8 @@ This work was supported by Institute of Information &amp; communications Technol
 
 #### Data : [Download](http://192.168.11.47:5000/sharing/9YcYWsNAH)     
           
-※ **자율주행차량의 주행 데이터는 2025년 8월에 실제 차량을 통해 계측한 데이터임**  
-※ 차량에 장착된 센서 RAW 데이터(카메라, 라이다) 및 라이다 기반 객체 인지정보를 포함하고 있음
+※ **자율주행차량의 주행 데이터는 2025년 11월에 실제 차량을 통해 계측한 데이터임**  
+※ 차량에 장착된 카메라 RAW 데이터 및 라이다 기반 객체 인지정보를 포함하고 있음
 
 ### 1. 개요  
 ### Autonomous vehicle  
@@ -27,7 +27,7 @@ This work was supported by Institute of Information &amp; communications Technol
 
 ### 2. 데이터 환경  
 ##### 1) Autonomous vehicle  
-* 2025년 8월에 실제 자율주행차량을 통해 계측한 데이터  
+* 2025년 11월에 실제 자율주행차량을 통해 계측한 데이터  
   * 약 140km 주행에 관한 데이터로 약 350GB
   * Linux(Ubuntu) ROS환경에서 제공되는 bag 포맷으로 저장
   * 대구 실증도로를 비롯한 주변 도로를 주행하면서 계측을 진행
