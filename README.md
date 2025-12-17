@@ -33,9 +33,8 @@ This work was supported by Institute of Information &amp; communications Technol
   * Linux(Ubuntu) ROS환경에서 제공되는 bag 포맷으로 저장
   * 대구 실증도로를 비롯한 주변 도로를 주행하면서 계측을 진행
     
-* <주행 경로>
-<img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/d4812db0-5712-483b-9be5-05802c870d5f" width="800" height="300">
+* <주행 환경>
+  <img width="2703" height="2294" alt="그림1" src="https://github.com/user-attachments/assets/fc4ae619-fb15-4abf-a491-151b615e3589" />
 
-* <주행 거리>
-<img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/8bc505fc-fb99-4b23-adfa-cdc4a4549b16" width="800" height="300">
+
 
