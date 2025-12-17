@@ -16,7 +16,7 @@ This work was supported by Institute of Information &amp; communications Technol
   * 차종(차명) : 승용(현대 IONIQ electric)  
   * Radar, Lidar 2대, GPS, Camera, OBU 장치가 장착되어 있음
   
-    <img width="612" height="400" alt="290701769-98408c85-9d99-46f7-8550-357abb3a0c7e" src="https://github.com/user-attachments/assets/c85f0833-ee7b-4e2f-a530-a890e95628d4" />
+    <img width="612" height="800" alt="290701769-98408c85-9d99-46f7-8550-357abb3a0c7e" src="https://github.com/user-attachments/assets/c85f0833-ee7b-4e2f-a530-a890e95628d4" />
 
 ### 데이터 수집 리스트
 #### 1) Autonomous vehicle  
