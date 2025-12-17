@@ -30,7 +30,7 @@ This work was supported by Institute of Information &amp; communications Technol
 ### 2. 데이터 환경  
 ##### 1) Autonomous vehicle  
 * 2025년 11월에 실제 자율주행차량을 통해 계측한 데이터  
-  * 약 140km 주행에 관한 데이터로 약 556GB
+  * 약 911.362km 주행에 관한 데이터로 약 556GB
   * Linux(Ubuntu) ROS환경에서 제공되는 bag 포맷으로 저장
   * 대구 실증도로를 비롯한 주변 도로를 주행하면서 계측을 진행
     
