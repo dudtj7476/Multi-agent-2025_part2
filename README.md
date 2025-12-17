@@ -36,7 +36,7 @@ This work was supported by Institute of Information &amp; communications Technol
     
 * <주행 환경>
   
-  <img width="2703" height="2294" alt="그림1" src="https://github.com/user-attachments/assets/fc4ae619-fb15-4abf-a491-151b615e3589" />
+  <img width="2703" height="2294" alt="그림2" src="https://github.com/user-attachments/assets/3e6816b6-fde0-4b03-8be9-6c219e619479" />
 
 
 
