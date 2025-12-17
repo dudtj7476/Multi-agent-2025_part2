@@ -25,7 +25,7 @@ This work was supported by Institute of Information &amp; communications Technol
   * 수집 데이터의 구조는 ROS에서 제공되는 구조와 자체 정의한 custom_msgs로 구성되어 있음
     (custom_msgs의 상세 구조는 과제 관련 2차년도 KIAPI 기술문서(엣지 인프라 및 자율주행차량 데이터 융복합 InterFace 구성 방안 설계서)에 정의되어 있음)
 
-    <img width="794" height="494" alt="image" src="https://github.com/user-attachments/assets/9415b477-0019-4df1-94c1-30b0cebcf58c" />
+    <img width="612" height="682" alt="image" src="https://github.com/user-attachments/assets/9415b477-0019-4df1-94c1-30b0cebcf58c" />
 
 ### 2. 데이터 수집 환경
 * 2025년 11월에 실제 자율주행차량을 통해 계측한 데이터  
@@ -35,7 +35,7 @@ This work was supported by Institute of Information &amp; communications Technol
     
 * <주행 환경>
   
-  <img width="2703" height="2294" alt="그림2" src="https://github.com/user-attachments/assets/3e6816b6-fde0-4b03-8be9-6c219e619479" />
+  <img width="612" height="682" alt="그림2" src="https://github.com/user-attachments/assets/3e6816b6-fde0-4b03-8be9-6c219e619479" />
 
 
 
