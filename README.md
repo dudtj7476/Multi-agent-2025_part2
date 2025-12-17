@@ -23,7 +23,8 @@ This work was supported by Institute of Information &amp; communications Technol
   * 센서 데이터 및 차량에서 계측된 주행 데이터의 목록은 다음과 같음
   * 수집 데이터의 구조는 ROS에서 제공되는 구조와 자체 정의한 custom_msgs로 구성되어 있음
     (custom_msgs의 상세 구조는 과제 관련 2차년도 KIAPI 기술문서(엣지 인프라 및 자율주행차량 데이터 융복합 InterFace 구성 방안 설계서)에 정의되어 있음)
-<img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/88d2a6f0-d19c-4efd-972b-025f06e6bcb1" width="612" height="682">
+
+    <img width="794" height="494" alt="image" src="https://github.com/user-attachments/assets/9415b477-0019-4df1-94c1-30b0cebcf58c" />
 
 ### 2. 데이터 환경  
 ##### 1) Autonomous vehicle  
